@@ -1,6 +1,6 @@
 - 👋 Hello there, I’m Vinicius Granatto camargo.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning React and NodeJS.
+- 🌱 I have experience with React, Angular and NodeJS and now I'm also learning Spring Boot.
 - 💞️ I'm currently a Software Engineer at Unicesumar.
 - 📫 Where you reach me:
 
