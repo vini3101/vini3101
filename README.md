@@ -1,7 +1,7 @@
 - 👋 Hello there, I’m Vinicius Granatto camargo.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning React and NodeJS.
-- 💞️ I'm currently a Fullstack dev at Gazin Tech.
+- 💞️ I'm currently a Software Engineer at Unicesumar.
 - 📫 Where you reach me:
 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-granatto-7979791b0/)](https://www.linkedin.com/in/vinicius-granatto-7979791b0/)
